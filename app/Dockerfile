@@ -5,7 +5,7 @@ FROM node:18-alpine
 WORKDIR /app
 
 # Copy package.json and package-lock.json dependencies files 
-COPY package*.json ./
+COPY /app/package.json ./
 
 # Install dependencies inside Docker
 RUN npm install
