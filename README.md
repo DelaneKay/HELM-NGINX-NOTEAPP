@@ -1,2 +1,2 @@
-# HELM-NGINX-NOTEAPP
-Kubernetes Project for a 2-tier server architecture
+# REACT-NGINX-DOCKER
+Docker Project for a 2-tier server architecture
